@@ -729,7 +729,7 @@ body {
               <span class="profile-pic-container">
                 <div class="profile-pic">
                   <img class="media-object img-circle center-block"  data-src="holder.js/100x100"
-                    alt="Benjamin Sitruk" src="http://img15.hostingpics.net/pics/703901ben.jpg" itemprop="image">
+                    alt="Benjamin Sitruk" src="me.jpg" itemprop="image">
                 </div>
 
                 <div class="name-and-profession">
